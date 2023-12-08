@@ -1,0 +1,8 @@
+bihor
+arad
+alba
+hunedoara
+galati
+timis
+iasi
+bucuresti

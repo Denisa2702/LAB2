@@ -1,0 +1,12 @@
+Podul de piatra s-a daramat 5 10 *
+A venit apa si l-a luat 6 9 *
+Vom face altul pe rau in jos 7 10 
+Altul mai trainic si mai frumos 6 12 
+Podul de piatra s-a daramat 5 10 *
+A VENIT APA SI L-A LUAT 6 9 
+Vom face altul pe rau in jos 7 10 
+ALTUL MAI TRAINIC SI MAI FRUMOS 6 12 
+PODUL DE PIATRA S-A DARAMAT 5 10 
+A venit apa si l-a luat 6 9 *
+Vom face altul pe rau in jos 7 10 
+Altul mai trainic si mai frumos 6 12 
